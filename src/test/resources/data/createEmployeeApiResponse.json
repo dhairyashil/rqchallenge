@@ -1,0 +1,9 @@
+{
+  "status": "success",
+  "data": {
+    "name": "Dhairya Bankar",
+    "salary": 20000,
+    "age" : 32,
+    "id": 1
+  }
+}
